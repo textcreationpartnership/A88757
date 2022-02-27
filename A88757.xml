@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last will and testament of Tom Fairfax, and the Army under his command: who now lie about Colchester, in a very sick and weake estate, past hope of life, and given up for dead, by their sworn doctors, the Earle of Norwich, the Lord Capell, and Sir Charles Lucas. Published by the command of the aforesaid doctors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88757</idno>
+            <idno type="STC">Wing L533</idno>
+            <idno type="STC">Thomason E451_38</idno>
+            <idno type="STC">ESTC R205301</idno>
+            <idno type="EEBO-CITATION">99864713</idno>
+            <idno type="PROQUEST">99864713</idno>
+            <idno type="VID">116945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116945)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last will and testament of Tom Fairfax, and the Army under his command: who now lie about Colchester, in a very sick and weake estate, past hope of life, and given up for dead, by their sworn doctors, the Earle of Norwich, the Lord Capell, and Sir Charles Lucas. Published by the command of the aforesaid doctors.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Clochester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116945:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>
+               <hi>THE LAST WILL AND TESTAMENT Of</hi> Tom Fairfax, <hi>and the Army under his Command: Who now lie about</hi> Colcheſter, <hi>in a very ſick and weake eſtate, paſt hope of life, and given up for dead, by their ſworn Doctors, the Earle of</hi> Norwich, <hi>the LORD</hi> Capell, <hi>and Sir CHARLES LVCAS.</hi>
+            </p>
+            <p>Publiſhed by the command of the aforeſaid DOCTORS.</p>
+            <q>
+               <lg>
+                  <l>In a most ſick and weak estate,</l>
+                  <l>Tom and his Army lie:</l>
+                  <l>But tis a ſtrong and Powerfull Fate,</l>
+                  <l>That Votes their miſery.</l>
+               </lg>
+               <lg>
+                  <l>Had they but ſo much light to ſee,</l>
+                  <l>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cromwels ſnowt affords:</l>
+                  <l>They would repent, and converts be:</l>
+                  <l>Vſe prayers, and not ſwords.</l>
+               </lg>
+               <lg>
+                  <l>The Gowt is growne ſo virulent,</l>
+                  <l>In <hi>Fairfax</hi> pockey too:</l>
+                  <l>Hee'l ſerve the thing call'd Parliament,</l>
+                  <l>A nation to undo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>But he decreaſeth in his ſtrength,</l>
+                  <l>The <hi>Saints</hi> doe moulder ſtill:</l>
+                  <l>I ſluggard, but Reſolv'd at length,</l>
+                  <l>To write, and print, their will,</l>
+               </lg>
+            </q>
+            <p>
+               <add>July .9<hi rend="sup">th</hi>.</add> Printed in the yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116945:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="1" facs="tcp:116945:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>THE LAST WILL AND TESTAMENT Of <hi>Tom Fairfax,</hi> and the Army under his Command.</head>
+            <p>
+               <hi>IN the name of Rebellion, Blood, Fury, and Horror,</hi> I Thomas Fairfax, <hi>Generall of the</hi> Army, <hi>now lying neere</hi> Colcheſter, <hi>rai<g ref="char:EOLhyphen"/>ſed for the Deſtruction of his</hi> Majeſties <hi>Perſon, the known Lawes of the Land, the Liberty of the Subject, and the priviledge of Parli<g ref="char:EOLhyphen"/>aments, being at this time in a very ſick and weak eſtate, of a Diſeaſe called the Gowt, which ſome call</hi> Scabiae Franciae, <hi>others</hi> Morbus Gallicus, <hi>and ſome</hi> Mechanicks <hi>the</hi> French Pocks, <hi>but eſpecially of the Diſeaſe called the Generall Revolt of the People from the Traey<g ref="char:EOLhyphen"/>tors at</hi> Weſtminſter, <hi>and for that the Earle of</hi> Norwich, <hi>the Lord</hi> Capell, <hi>and Sir</hi> Charles Lucas, <hi>my ſworne Doctors, have given out that I muſt not live long, being gone paſt hope of recovery, I there<g ref="char:EOLhyphen"/>fore hold it expedient to make this my laſt Will and Teſtament, in manner and form following:</hi>
+            </p>
+            <p>Jmprimis. I give and bequeath my <hi>body</hi> to ſome <hi>dunghill,</hi> or to the City <hi>Common ſhore,</hi> that my name (if it were poſſible) might periſh from the <hi>earth,</hi> and my <hi>infamie,</hi> ceaſe among <hi>men,</hi> my <hi>Soul</hi> I give to be diſpoſed of at the pleaſures of that once <hi>glorious Angel,</hi> now the <hi>King</hi> of <hi>Gehenna,</hi> who fell from heaven like <hi>lightning<g ref="char:punc">▪</g>
+               </hi> the ſole <hi>Patron</hi> of me and my Faction, <hi>Lucifer,</hi> well knowing that by him, I ſhall be courteouſly intrea<g ref="char:EOLhyphen"/>ted, and that hee will remember our former friendſhip, ſo that where others are waſht over head and eares in gulphes of liquid fire, I ſhall but <hi>Tantalize</hi> in yee, and exchange the <hi>Torrid,</hi> for the <hi>Frozen Zone.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>As in the world there are degrees of Evils,</hi>
+               </l>
+               <l>
+                  <hi>So in the next, there are degrees of Devils:</hi>
+               </l>
+               <l>
+                  <hi>Give me thy Purgatory</hi> Lucian, <hi>I,</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:116945:3"/>
+                  <!-- PDF PAGE 36 -->
+                  <hi>Should then eſteeme it, but a jeſt to Die:</hi>
+               </l>
+               <l>
+                  <hi>To ſee great</hi> Alexander <hi>cobling ſhoos,</hi>
+               </l>
+               <l>Charlemaine <hi>ſell blacking,</hi> Caeſar <hi>pulling crowes,</hi>
+               </l>
+               <l>Tamberlaine <hi>practiſing the Taylors art,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Pepin, <hi>ſelling apples in a cart:</hi>
+               </l>
+               <l>
+                  <hi>Drawne by one horſe ſome ſuch inferior place,</hi>
+               </l>
+               <l>
+                  <hi>I hope of</hi> Pluto <hi>to obtain the grace.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>Commiſſion</hi> (ſince I beleeve the <hi>Saints</hi> under my command muſt needs have one of eminent baſe<g ref="char:EOLhyphen"/>neſſe, and known wickedneſſe to goe in and out before them) to my dear brother the Earl of <hi>Denbigh,</hi> whom I know to be a man ſufficiently quallified for the worke, whoſe very breath is as conta<g ref="char:EOLhyphen"/>gious as the Peſtilence, who with the toade ſucks poyſon out of the moſt cleareſt fountaines, and whoſe face is as ominous as a Baſa<g ref="char:EOLhyphen"/>lisk, whoſe heart continually grates it ſelf it with envy, and fights with his gall for maſtery, which is the reaſon of that roade-poole ſetled in his face, hee is the man whom I appoynt the <hi>Champion</hi> of <hi>Iſrael</hi> after my diſeaſe, to fight the battailes of the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>Jtem,</hi> I give and bequeath my <hi>perjury,</hi> and <hi>treacheries,</hi> when I delivered the <hi>King</hi> my maſter into the hands of <hi>Whaley,</hi> at <hi>Hampton court,</hi> and permitted <hi>Cromwel<g ref="char:punc">▪</g>
+               </hi> by a wile to be guilty of his own ruin, by flying to the Iſle of <hi>Wight,</hi> notwithſtanding I and <hi>Nel</hi> had ſolemnly ſworne to him at New-market, and at St. <hi>Al<g ref="char:EOLhyphen"/>bones</hi> that we woul procrue a preſent <hi>Perſonall Treaty,</hi> and reſtore him to his loſt greatneſſe, I ſay I bequeath that my perjury, and <hi>diſloyalty</hi> to the peculiar uſe of the crew at <hi>Weſtminſter,</hi> whom ve<g ref="char:EOLhyphen"/>rily I now hate, for that they ſuffer mee to lye here, where I am each day buffeted by perpetuall <hi>ſallies,</hi> my army each day waſted, and thoſe that ſurvive being in dread of Sir <hi>Marmaduke Langdales</hi> approach upon their backs, and ſo to be pounded to their deſtru<g ref="char:EOLhyphen"/>ction, and yet they ſend me no ſupplyes (it ſeemes they are buſy in packing up their goods for their journey) either of men or money, wiſhing them to adde it to all their former perjuries and Treacheries, for Ile aſſure them, that the Projection of mee, and <hi>Cromwel</hi> for the cleanly conveyance of his <hi>Majeſties</hi> Perſon into the Iſle of <hi>Wight,</hi> may ſtand upon record for the moſt <hi>pernicious fallacy</hi> that ever <hi>hole inſtruments invented,</hi> and that curſed <hi>Plot,</hi> if
+<pb n="3" facs="tcp:116945:3"/>
+               <!-- PDF PAGE 36 -->well husbanded, may procreate a thouſand more, as <hi>pernitious</hi> as that hath proved, and as equally dangerous.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath, ſix pounds <hi>per annum</hi> to be paid out of <hi>Delinquents</hi> eſtates not yet diſcovered, to <hi>lack Hall,</hi> (the may-game of <hi>Cambridge</hi>) who each weeke proclaymes himſelf in a ſheet of nonſence, <hi>blaſphemye,</hi> and <hi>treaſon,</hi> by the name of the the quondam <hi>Libeller Britain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which annuity I beſtow on him to quit his charges <hi>for pen, inke,</hi> and <hi>paper:</hi> for his maintenance I leave that to <hi>Lillie</hi> and <hi>Booker</hi> the <hi>infortunates</hi> of the <hi>State,</hi> whoſe, hireling hee is, and who allow him money, for <hi>tobacco</hi> and <hi>beere</hi>-beſides a <hi>ſundayes dinnir,</hi> of <hi>beefe and pudding,</hi> to raile againſt <hi>E<g ref="char:EOLunhyphen"/>lenctichus,</hi> and the <hi>Scots.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and bequeath the ſum of one hundred pounds, to be paid out of mine own eſtate, to Mr. <hi>Marſhall</hi> that <hi>Geneva bull</hi> as a gratuity for his paines, when he ſhall preach my funerall ſer<g ref="char:EOLhyphen"/>mon, which I would have him prate, in S. <hi>Margarits</hi> church <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> his auditory I would have to be theſe whom I nominate, <hi>Imprimis. Harry Martin, Mr. Weaver, and Mr. Scot: of com<g ref="char:EOLhyphen"/>mittee men, Corbet the ſwarthy, and Challenor the wall-eyd<g ref="char:punc">▪</g> of citi<g ref="char:EOLhyphen"/>zens, Warner the Mayor, and Atkins the Alderman, of the Army, Ireton the Anabaptiſt, and Rainsborow the leveller, of the Lords Say the ſychophant, and Mancheſter the man-cater:</hi> his <hi>text</hi> I would have to be, even where himſelfe liſteth, for the truth is, I am not ſo well read <hi>in holy ſcripture,</hi> as to remember any place pertinent to the purpoſe, his Sermon finiſhed, let my body be decently wound up, in the <hi>Ordinance of Indemnity,</hi> (for perchance it may purchaſe me ſome favour amongſt my <hi>fellow-furies</hi> in hell, though (ſhould I live) it could not mittigate my <hi>cenſure</hi> and <hi>puniſhment on earth,</hi> that done my body to born with all ſolemnity, and caſt into the o<g ref="char:EOLhyphen"/>pen fields, for the <hi>fowles</hi> of the <hi>ayre</hi> to feaſt upon me (if perhaps they flie mee not for the <hi>ſowreneſſe</hi> of my <hi>fleſh,</hi>) and for that I am like to have no tombe, I deſire that this <hi>Epitaph</hi> may be entred in<g ref="char:EOLhyphen"/>to the <hi>Iournall booke</hi> of the <hi>crew</hi> at <hi>Weſtminſter,</hi> but withall I leave it to the diſcretion of <hi>Brittannicus,</hi> to frame another more <hi>plauſible</hi> if he find occaſion.</p>
+            <lg>
+               <head>Epitaph<g ref="char:punc">▪</g>
+               </head>
+               <l>
+                  <hi>Bleſſed</hi> Tom Fairfax, <hi>hee who led a rout,</hi>
+               </l>
+               <l>
+                  <hi>Of ſeeming Saints, though halting with the gowt:</hi>
+               </l>
+               <l>
+                  <hi>Is dead, but woe to us, hee ſo ſhould fall,</hi>
+               </l>
+               <l>
+                  <hi>Wee not provided of a Generall:</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:116945:4"/>
+                  <!-- PDF PAGE 37 -->
+                  <hi>Hee marcht about, and led the Babes of Grace,</hi>
+               </l>
+               <l>
+                  <hi>To plunder, and to raviſh, in each place:</hi>
+               </l>
+               <l>
+                  <hi>And ſound no ſtop his paſſadge to deter,</hi>
+               </l>
+               <l>
+                  <hi>Vntill his Lameſhip came to</hi> Colcheſter;</l>
+               <l>
+                  <hi>There, oh that fatall place, his Saints and he,</hi>
+               </l>
+               <l>
+                  <hi>Did ſind the worſt of Wars extremitie:</hi>
+               </l>
+               <l>
+                  <hi>Hundreds of them, were blown up into the ayr;</hi>
+               </l>
+               <l>
+                  <hi>As many without armes, dide in Diſpair.</hi>
+               </l>
+               <l>
+                  <hi>This broak his Gow<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhips heart, hees g<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nzhes gon,</hi>
+               </l>
+               <l>
+                  <hi>And the reſt running to perdition.</hi>
+               </l>
+            </lg>
+            <p>The laſt will and Teſtament of the Army.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me of miſchief, murther, maſſacres, and Ruine, Amen.</hi> WEe who tearme our ſelves an Army of <hi>Saints,</hi> commonly knowne by the name of <hi>murtherers, plunderers, Blaſphe<g ref="char:EOLhyphen"/>mers, Atheiſts,</hi> and <hi>out-throates,</hi> now lying before the Towne of <hi>Colcheſter,</hi> where we are continually kept waking with loud <hi>al<g ref="char:EOLhyphen"/>lar<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> and hundreds of us each day out off by furious <hi>Sallies,</hi> being in a very ſick and weak eſtate, and certainly aſſured that we can<g ref="char:EOLhyphen"/>not be long mortall, do make this our laſt <hi>Will</hi> and <hi>Teſtament,</hi> in manner and form following:</p>
+            <p>
+               <hi>Imprimis.</hi> Wee give our <hi>bodies,</hi> to be devoured by <hi>crowes, pies, rav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> and <hi>ſhrich-owles,</hi> and the other animals of the ayre, ſo ſoon as ever our Soules ſhall be ſent packing by the ſwords of the Earl of <hi>Norwich,</hi> the Lord <hi>Capell,</hi> Sir <hi>Charles Lueas,</hi> Sir <hi>Marmaduke Langdale,</hi> and the reſt of the eminent <hi>Royalliſts,</hi> and their adhe<g ref="char:EOLhyphen"/>rents, now in armes againſt us.</p>
+            <p>
+               <hi>Jtem.</hi> Wee give and bequeath all our <hi>plunders<g ref="char:punc">▪</g> rapines, cruel<g ref="char:EOLhyphen"/>ties,</hi> and <hi>abominations</hi> which we have practiſed this ſeven years, to <hi>Scot, Mancheſter, Say, Warner, Wild<g ref="char:punc">▪</g> Rolles,</hi> and the reſt at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the city of <hi>London,</hi> who rule the roaſte, wiſhing wee could make them full <hi>Executioners</hi> to all our <hi>Sinnes,</hi> not doubting but they wil improve our aforeſaid legacies to the beſt advantage ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, till they ſhall be pulled out of their houſe at <hi>Weſtminſter,</hi> and all they at <hi>G<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld. Hall</hi> ſhall be whipt about the <hi>City.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> Wee give and bequeath, all our <hi>Sciſmes, Factions, outra<g ref="char:EOLhyphen"/>ges,
+<pb n="5" facs="tcp:116945:4"/>
+                  <!-- PDF PAGE 37 -->diſturbances, tumults, contentions,</hi> to the <hi>Sectaries</hi> in, and abo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the City of <hi>London,</hi> to bee equally diſtributed amongſt them the 22 of <hi>September</hi> next enſuing when they ſhall meet together at the <hi>Spittle,</hi> to take their farewell of <hi>Tub-L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctures,</hi> to the end, they may be ſo well ſeaſoned with ſeditious principles, that they may on all occaſions be prompt and ready to cauſe new <hi>combuſtions,</hi> to give occaſion of new <hi>jealouſies,</hi> and to ſet on foot new <hi>diſtempers,</hi> when we ſhall be quite forgotten, ſave to ovr <hi>Infamy.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> Wee give and bequeath, unto our venerable <hi>Apoſtle, Hugh Peters,</hi> all thoſe gifts of the <hi>Spirit,</hi> (which the malignants tearme) of <hi>deulſion,</hi> with which inabled we that are <hi>foot-ſouldiers</hi> and <hi>troopers</hi> have often with our <hi>zealous Oratory</hi> frighted the <hi>Iack Dawes,</hi> of from Countrey Steeples, and have led the <hi>high-ſhoes<g ref="char:punc">▪</g>
+               </hi> and <hi>ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on mouthes,</hi> by the noſe to their ruine, and this boon wee are the rather incited to beſtow upo<g ref="char:cmbAbbrStroke">̄</g> him for that he the ſaid <hi>Hugh Peters,</hi> hath of late dayes abſconded himſelf from us, and hath ta<g ref="char:EOLhyphen"/>ken up his quarters with the <hi>cutlers-wife,</hi> at — having deſerted his <hi>Apoſtolicall function,</hi> wee meane not his players guyze (which i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the reaſon that ever ſince he hath been a <hi>miniſter,</hi> he acts a <hi>ſer<g ref="char:EOLhyphen"/>mon</hi> ſo <hi>ridicouſly in the pulpit,</hi> to the incredible mirth of his <hi>Audi<g ref="char:EOLhyphen"/>tory,</hi> but meane his faculty of <hi>prating</hi> and <hi>confounding Scripture</hi> al which his Errors, we are confident will ſoone leave him, when our <hi>ſpirit</hi> ſhall take up <hi>hillet</hi> in his <hi>breaſt,</hi> alſo wee beſtow upon him, all the riches which we ſhall leave ſow'd up in our doublets when we leave the world (if hee have ſuch good fortune to attain it) which we doe hereby charge him to lay out upon <hi>good wine,</hi> and <hi>handſome whores,</hi> for we know, when he leaves ſuch <hi>recreation</hi> our <hi>cauſe</hi> periſheth with him.</p>
+            <p>
+               <hi>Item.</hi> Wee give and bequeath all our falſe <hi>eaths</hi> our breach of <hi>covenant,</hi> and our frequent <hi>proteſtations</hi> to act nothing that might tend to his <hi>Majeſties diſhonour,</hi> the ruine of his <hi>Perſon,</hi> or to the diminiſhing of his juſt <hi>Power</hi> and <hi>greatneſſe,</hi> with which plauſible pretences (we once deluded the people) to the <hi>States</hi> at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>It is</hi> by them that we are ſo accurst,</l>
+               <l>By them we were deluded at the firſt:</l>
+               <l>They were the Devils, that began the broile,</l>
+               <pb n="4" facs="tcp:116945:5"/>
+               <!-- PDF PAGE 38 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:116945:5"/>
+               <!-- PDF PAGE 38 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="6" facs="tcp:116945:6"/>
+                  <!-- PDF PAGE 39 -->
+And we have been their hackneis, all our toil,</l>
+               <l>Hath been their greatneſſe, for to propogate,</l>
+               <l>And late, we brought them neer unto a State<g ref="char:punc">▪</g>
+               </l>
+               <l>But like to Sailors, ſee the Port, and die,</l>
+               <l>They looke upon their wiſh, and fell from hie.</l>
+            </lg>
+            <p>Willing and deſiring our ſaid <hi>executors,</hi> (if at leaſt wee may tearme them ſo) to improve our <hi>impieties</hi> aforeſaid to the utmoſt that ſo (if it be poſſible) they may yet hold up a twelve moneth longer, and under a pretence of <hi>treating</hi> with his <hi>Majeſty,</hi> get time to ſtrengthen themſelves, or if that fail, to make up their <hi>fardles</hi> for <hi>New-England.</hi>
+            </p>
+            <p>All theſe out <hi>Leganles</hi> being duly diſtributed, according to our aforeſaid wiſh, we will, that <hi>Mr. Dell</hi> that <hi>Goſpell Reformer,</hi> in whoſe eſteeme his <hi>Majeſty</hi> is a <hi>dead dog,</hi> doe preach our funerall in the fields, where we deſire that all the whole rabble of <hi>Sectaries</hi> whether <hi>Pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>biters, Independents, ſeekers, Anabaptiſts, Apoſtoliks, Anti-trinitarians, Familists, Antiſcripturians,</hi> or <hi>Adamites, Sha<g ref="char:EOLhyphen"/>kers, Browniſts, Barrowists, Eraſtians, Nicholaitans, Antinomians, Armi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians, and the whole ſwarmes of Hornets,</hi> will be preſent, and the ſermon being finiſhed, to lift up their voyces, with <hi>outrag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous ſhriekes,</hi> and <hi>horrid gro<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s,</hi> ſuch as may fright <hi>nature into</hi> a <hi>Chaos,</hi> and for that we doubt not but Mr. <hi>Dell</hi> will take great paynes, in ſweating out his ſermon, we wil that he in recompence therof ſhal have liberty to <hi>print h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſermon,</hi> and to take <hi>money</hi> for the <hi>co<gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>
+               </hi> of whatſoever <hi>Book ſeller</hi> he can get it, we could wiſh the <hi>dan<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at Knave, Greek,</hi> who keepes ſhop in <hi>fleet-ſtreet,</hi> had the diſp<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g of it, &amp; ſo de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing one <hi>long <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard brethren,</hi> to take warning by our example, we bid them, farewel, aſſuring them, that wee will not ſayle to make known to their friends in the lower world t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is preſent eſtate.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
